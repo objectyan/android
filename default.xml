@@ -8,7 +8,7 @@
           fetch="ssh://git@github.com" />
 
   <remote name="aosp"
-          fetch="https://mirrors.tuna.tsinghua.edu.cn"
+          fetch="https://aosp.tuna.tsinghua.edu.cn"
           review="https://android-review.googlesource.com"
           revision="refs/tags/android-10.0.0_r36" />
   
